@@ -1,4 +1,5 @@
 ----------------------one time things------------------------------
+notes
 
 download git and install it
 open git bash
