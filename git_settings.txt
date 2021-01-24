@@ -2,7 +2,7 @@
 
 download git and install it
 open git bash
-type - ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+ssh-keygen -t rsa -b 4096 -C "nishantpatel929@gmail.com"
 press enter 3 times
 and now copy public key from c:/user/nishant patel/.git
 paste it into github setting(beside avatar image)/ssh and gpg keys
